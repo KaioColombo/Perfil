@@ -1,5 +1,5 @@
 # 🧑‍💻 Sobre mim
-Olá! Me chamo [Kaio], sou estudante de Análise e Desenvolvimento de Sistemas e estou começando minha jornada no mundo da programação. Estou em busca de aprender cada dia mais sobre desenvolvimento web, lógica de programação, bancos de dados e outras áreas da tecnologia.
+Olá! Me chamo Kaio, sou estudante de Análise e Desenvolvimento de Sistemas e estou começando minha jornada no mundo da programação. Estou em busca de aprender cada dia mais sobre desenvolvimento web, lógica de programação, bancos de dados e outras áreas da tecnologia.
 
 📚 Atualmente estudando
 Lógica de Programação
