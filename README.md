@@ -28,5 +28,5 @@ Estagiar na área de TI
 📫 Contato
 Email: kaiokregina@gmail.com
 
-LinkedIn: Kaio Silva
+LinkedIn: Kaio Colombo
 
